@@ -21,6 +21,16 @@ p{
 	color: gray;
 }
 
+img{
+	padding-bottom: 20px;
+}
+
+footer{
+	color: gray;
+	text-align: right;
+	font-size: 21px;
+}
+
 .download{
 	color: Aquamarine;
 	font-size: 16px;
@@ -29,4 +39,8 @@ p{
 
 .video{
 	align-content: center;
+}
+
+#phone{
+	background-color: white;
 }
